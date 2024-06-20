@@ -1,5 +1,5 @@
 # windows-app-bc
-
+it's a simple project which shows the users data.
 # Express TypeScript Server
 A TypeScript-powered backend server using Express for handling submissions.
 
